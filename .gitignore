@@ -2,3 +2,8 @@
 /Unix/Home/.config/fish/fish_read_history
 /Unix/Home/.config/fish/fishd.*
 /Unix/Home/.config/fish/functions/*.fish
+/Mac/Home/Library/Application Support/Sublime Text 3/Index/
+/Mac/Home/Library/Application Support/Sublime Text 3/Installed Packages/
+/Mac/Home/Library/Application Support/Sublime Text 3/Local/
+/Mac/Home/Library/Application Support/Sublime Text 3/Cache/
+/Mac/Home/Library/Application Support/Sublime Text 3/Packages/User/*.cache

@@ -1,3 +1,6 @@
+# Set editor
+set -x EDITOR sublw
+
 # Disable fish greeting
 set fish_greeting ''
 
